@@ -25,7 +25,7 @@ int main()
 		"A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
 		"A5,Daniel,Tierney,dtiern5@wgu.edu,31,80,60,90,SOFTWARE",
 	};
-	
+
 	// Create and populate classRoster
 	const int numStudents = 5;
 	Roster classRoster;

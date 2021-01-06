@@ -1,4 +1,5 @@
-#pragma once
+#ifndef STUDENT_H
+#define STUDENT_H
 #include <iostream>
 #include "degree.h"
 using namespace std;
@@ -44,3 +45,5 @@ public:
 	~Student();
 
 };
+
+#endif

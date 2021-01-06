@@ -1,4 +1,5 @@
-#pragma once
+#ifndef ROSTER_H
+#define ROSTER_H
 #include <iostream>
 #include <string>
 #include "student.h"
@@ -31,3 +32,5 @@ public:
 	void printByDegreeProgram(DegreeProgram degreeProgram);
 	~Roster();
 };
+
+#endif
