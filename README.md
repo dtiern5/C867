@@ -1,6 +1,3 @@
-This is my project for C867 at WGU.
-The course info specifically says I can use this in a portfolio, so I see no harm in sharing it here.
-
 The project scenario required migrating an existing student system to C++ with given function and class requirements.
 main() in main.cpp demonstrates this functionality.
 There is an attached PNG file of a successful run to the console.
